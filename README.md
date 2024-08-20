@@ -1,6 +1,6 @@
 # Property-registration
 Project to implement property registration on Blockchain using Hyperledger technology
-Implemented as a part of coursework at III-B on Blockchain
+Implemented as a part of coursework at IIIT-B on Blockchain
 
 **Stakeholders of the Network**
 Users and Registrar( Responsible for User validation and registraion of property)
